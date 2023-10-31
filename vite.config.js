@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/GooseTrack_frontend',
+  base: '/react-node-fs78-Yura-Platonov',
 });
