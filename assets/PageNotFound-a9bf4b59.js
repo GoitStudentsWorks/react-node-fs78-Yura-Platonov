@@ -1,4 +1,4 @@
-import{s as o,N as a,j as e}from"./index-9d8c2ae3.js";const i="/react-node-fs78-Yura-Platonov/assets/goose-rocket-404-e9056f24.svg",r=o.div`
+import{s as o,N as a,j as e}from"./index-8bd1e56d.js";const i="/react-node-fs78-Yura-Platonov/assets/goose-rocket-404-e9056f24.svg",r=o.div`
   display: flex;
   align-items: center;
   flex-direction: column;
